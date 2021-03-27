@@ -3,15 +3,7 @@
 /* Screens Resolution : 992px
 -------------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
-	/* ---------------------------------
-	9. COUNTER SECTION
-	--------------------------------- */
-
-	.counter-section{ text-align: center; padding: 50px 0 20px; }
-
-	.counter{ display: inline-block; }
 	
-	.counter .desc{ text-align: left; }
 }
 
 /* Screens Resolution : 992px
@@ -57,24 +49,9 @@
 
 	.intro-section{ padding-top: 350px; }
 
-
-	/* ---------------------------------
-	5. PORFOLIO SECTION
-	--------------------------------- */
-
-	.portfolio-section{ padding-bottom: 0; }
-	
-	.portfolio-section .portfolioFilter{ margin: 0px 0 10px; }
-	
-	.portfolio-section .portfolioContainer{ margin-left: 0; margin-right: 0; }
-
-	.portfolio-section .p-item{ width: 50%; padding: 0 15px 0px; }
-
-	.portfolio-section .p-item{ max-width: 400px; }
-
 	
 	/* ---------------------------------
-	8. EDUCATION SECTION
+	6. EDUCATION SECTION
 	--------------------------------- */
 	
 	.education-wrapper:after,
@@ -91,13 +68,6 @@
 	--------------------------------- */
 
 	body{ font-size: 14px;  }
-	
-
-	/* ---------------------------------
-	5. PORFOLIO SECTION
-	--------------------------------- */
-	
-	.portfolio-section .p-item{ width: 100%; }
 	
 }
 
